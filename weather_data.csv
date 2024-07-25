@@ -1,0 +1,46 @@
+day,date,tempHigh,tempLow,condition,precip,realFeel,realFeelShade,maxUV,windDirection,windSpeed
+THU,7/25,21°,19°,Cloudy with showers and thunderstorms,100%,24°,21°,4 Moderate,SW,11 km/h
+FRI,7/26,23°,20°,A thick cloud cover with a couple of showers and a thunderstorm,96%,27°,24°,5 Moderate,SW,9 km/h
+SAT,7/27,24°,19°,"Considerable cloudiness with a couple of showers and a thunderstorm, mainly later",97%,27°,24°,4 Moderate,WSW,7 km/h
+SUN,7/28,22°,18°,"Thunderstorms, some can be heavy late; cloudy",95%,25°,22°,4 Moderate,SW,6 km/h
+MON,7/29,22°,19°,Cloudy with showers and thunderstorms,96%,26°,23°,5 Moderate,WSW,7 km/h
+TUE,7/30,22°,18°,"Cloudy with a couple of showers and a thunderstorm, mainly early in the day",75%,25°,23°,4 Moderate,WSW,7 km/h
+WED,7/31,23°,18°,"Cloudy with a couple of showers and a thunderstorm, mainly early in the day",74%,28°,24°,8 Very High,W,9 km/h
+THU,8/1,23°,18°,Cloudy with showers and thunderstorms,65%,26°,24°,7 High,W,4 km/h
+FRI,8/2,22°,18°,Remaining cloudy with a couple of showers and a thunderstorm,60%,26°,25°,7 High,WNW,2 km/h
+SAT,8/3,22°,18°,Partial sunshine with a couple of showers and a thunderstorm,63%,27°,24°,12 Extreme,N,2 km/h
+SUN,8/4,22°,19°,Periods of clouds and sunshine with a couple of showers and a thunderstorm,60%,27°,24°,10 Very High,N,2 km/h
+MON,8/5,23°,18°,Considerable cloudiness with showers and thunderstorms,70%,27°,25°,7 High,SW,2 km/h
+TUE,8/6,22°,18°,A thick cloud cover with showers and thunderstorms,65%,26°,24°,7 High,W,4 km/h
+WED,8/7,22°,20°,Humid with occasional rain,66%,27°,25°,4 Moderate,S,6 km/h
+THU,8/8,22°,19°,Cloudy and humid with rain tapering to a couple of showers,68%,26°,24°,3 Moderate,S,6 km/h
+FRI,8/9,21°,20°,Cloudy with showers,69%,25°,23°,4 Moderate,SSW,4 km/h
+SAT,8/10,21°,20°,Cloudy and humid with showers,60%,26°,24°,4 Moderate,SSW,7 km/h
+SUN,8/11,22°,19°,Cloudy and humid with showers,63%,26°,25°,4 Moderate,SSW,6 km/h
+MON,8/12,22°,20°,Humid with periods of rain,59%,26°,25°,4 Moderate,SW,6 km/h
+TUE,8/13,22°,20°,Humid with periods of rain,61%,26°,24°,3 Moderate,SW,6 km/h
+WED,8/14,22°,20°,Cloudy and humid with showers,70%,26°,25°,3 Moderate,WSW,6 km/h
+THU,8/15,22°,20°,Cloudy and humid; showers in the morning followed by a shower in spots in the afternoon,66%,26°,25°,4 Moderate,WSW,6 km/h
+FRI,8/16,22°,20°,A thick cloud cover and humid with showers,60%,27°,26°,4 Moderate,WSW,6 km/h
+SAT,8/17,22°,20°,Considerable cloudiness and humid with a little rain,55%,27°,26°,4 Moderate,WSW,4 km/h
+SUN,8/18,23°,20°,"A little rain in the morning; otherwise, cloudy and humid",58%,28°,26°,4 Moderate,W,6 km/h
+MON,8/19,23°,19°,Cloudy and humid; a morning shower in spots followed by a little rain in the afternoon,56%,28°,27°,4 Moderate,W,4 km/h
+TUE,8/20,22°,20°,Remaining cloudy and humid; a little rain in the morning followed by a shower in spots in the afternoon,55%,28°,26°,4 Moderate,S,2 km/h
+WED,8/21,23°,20°,Hazy sun and humid; a passing shower in the afternoon,56%,30°,27°,13 Extreme,S,4 km/h
+THU,8/22,23°,20°,Cloudy and humid; a little morning rain followed by a shower in spots in the afternoon,55%,28°,28°,4 Moderate,SSE,2 km/h
+FRI,8/23,23°,20°,Cloudy and humid with a shower in places,40%,28°,27°,3 Moderate,S,4 km/h
+SAT,8/24,23°,20°,"Cloudy and humid with a couple of showers, mainly later",57%,28°,27°,3 Moderate,SSW,4 km/h
+SUN,8/25,23°,20°,"Cloudy and humid with a couple of showers, mainly later",59%,28°,27°,3 Moderate,W,4 km/h
+MON,8/26,23°,20°,Still cloudy and humid; a couple of showers in the morning followed by a little rain in the afternoon,59%,28°,26°,4 Moderate,SW,4 km/h
+TUE,8/27,23°,19°,Rather cloudy and humid with a couple of showers,64%,29°,26°,7 High,SSW,4 km/h
+WED,8/28,22°,20°,Cloudy and humid; a little morning rain followed by a shower in spots in the afternoon,57%,26°,24°,3 Moderate,SSE,7 km/h
+THU,8/29,23°,20°,Mostly cloudy and humid; a passing shower in the morning followed by a little rain in the afternoon,55%,29°,26°,8 Very High,SSE,7 km/h
+FRI,8/30,23°,20°,"A couple of showers in the morning; otherwise, mostly cloudy and humid",56%,28°,27°,3 Moderate,SE,7 km/h
+SAT,8/31,23°,20°,"Clouds and sunshine with a couple of showers, mainly later; humid",57%,28°,26°,5 Moderate,SE,4 km/h
+SUN,9/1,23°,20°,"Periods of rain in the morning; otherwise, mostly cloudy and humid",69%,29°,27°,11 Extreme,W,4 km/h
+MON,9/2,23°,20°,Cloudy and humid with showers,70%,28°,27°,4 Moderate,W,4 km/h
+TUE,9/3,23°,19°,Cloudy and humid with showers,70%,28°,26°,3 Moderate,NW,2 km/h
+WED,9/4,22°,20°,Mostly cloudy and humid with showers,62%,27°,26°,5 Moderate,SW,4 km/h
+THU,9/5,22°,20°,Cloudy and humid with a couple of showers,61%,26°,26°,3 Moderate,SW,6 km/h
+FRI,9/6,23°,19°,"Intervals of clouds and sunshine with a couple of showers, mainly later",58%,28°,23°,12 Extreme,WNW,6 km/h
+SAT,9/7,23°,19°,Partly sunny with a brief shower in the afternoon,58%,28°,23°,12 Extreme,W,7 km/h
