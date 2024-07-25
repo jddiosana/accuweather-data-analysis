@@ -1,5 +1,5 @@
 day,date,tempHigh,tempLow,condition,precip,realFeel,realFeelShade,maxUV,windDirection,windSpeed
-THU,7/25,21°,19°,Cloudy with showers and thunderstorms,100%,24°,21°,4 Moderate,SW,11 km/h
+THU,7/25,21°,19°,Breezy this morning; cloudy with showers and thunderstorms,100%,22°,21°,4 Moderate,SW,19 km/h
 FRI,7/26,23°,20°,A thick cloud cover with a couple of showers and a thunderstorm,96%,27°,24°,5 Moderate,SW,9 km/h
 SAT,7/27,24°,19°,"Considerable cloudiness with a couple of showers and a thunderstorm, mainly later",97%,27°,24°,4 Moderate,WSW,7 km/h
 SUN,7/28,22°,18°,"Thunderstorms, some can be heavy late; cloudy",95%,25°,22°,4 Moderate,SW,6 km/h
